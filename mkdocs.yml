@@ -1,1 +1,5 @@
-site_name: My Docs
+site_name: The Machines Are Learning
+
+theme:
+  name: 'material'
+

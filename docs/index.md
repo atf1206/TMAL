@@ -1,6 +1,6 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+Welcome to __The Machines Are Learning__, a series of q/kdb, Python, and R tutorials for basic machine learning tasks.
 
 ## Commands
 
@@ -14,4 +14,6 @@ For full documentation visit [mkdocs.org](https://mkdocs.org).
     mkdocs.yml    # The configuration file.
     docs/
         index.md  # The documentation homepage.
+	1-Plants/
+		index.md # Plants homepage
         ...       # Other markdown pages, images and other files.
